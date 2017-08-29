@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="1" fecha="08-07-2017">
+	<cliente>
+		<nombre>Fernanda Daza</nombre>
+		<telefono>3144486996</telefono>
+	</cliente>
+	<articulos id="1">
+		<!--<id-art>1</id-art>-->
+		<descripcion>Papas</descripcion>
+		<precio-unitario>1000</precio-unitario>
+		<precio-final>1200</precio-final>
+		<cantidad>1</cantidad>
+	</articulos>
+	<precio-total>1200</precio-total>
+	<!--<id-fac>1</id-fac>
+	<fecha-fac>08-07-2017</fecha-fac>-->
+</factura>
